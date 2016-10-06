@@ -1,0 +1,21 @@
+{
+  "name": "teleweekend",
+  "version": "1.0.0",
+  "description": "Telegram Bot User Add",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Aryatama",
+  "license": "ISC",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
